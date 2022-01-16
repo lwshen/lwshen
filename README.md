@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ldpe2G's github stats](https://github-readme-stats.vercel.app/api?username=lwshen&count_private=true&show_icons=true)
+<table><tr><td align="center" width="55%">
 
+![Ldpe2G's github stats](https://github-readme-stats.vercel.app/api?username=lwshen&count_private=true&show_icons=true&hide=contribs)
+
+</td><td align="top" width="45%">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwshen&layout=compact)
+
+</td></tr></table>
