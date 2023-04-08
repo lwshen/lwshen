@@ -53,4 +53,14 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```text
+Java             15 hrs 24 mins  ██████████████░░░░░░░░░░░   56.57 %
+TypeScript       2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+YAML             2 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Vue.js           2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+SQL              1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Python           1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+```
+
 <!--END_SECTION:waka-->
