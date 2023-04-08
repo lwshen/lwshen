@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center"><img src="https://raw.githubusercontent.com/lwshen/lwshen/main/assets/github-contribution-grid-snake.svg" ></div>
+
 ###  Hi 👋, I'm Ryo Shen
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lwshen&label=Profile%20views&color=0e75b6&style=flat" alt="lwshen" /> </p>
 
