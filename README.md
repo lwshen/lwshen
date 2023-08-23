@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                    10 hrs 26 mins  ████████████▓░░░░░░░░░░░░   50.07 %
-YAML                    3 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Markdown                1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Text                    1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-ca65 assembler          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Java                    10 hrs 23 mins  ███████████▒░░░░░░░░░░░░░   45.34 %
+YAML                    2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Text                    1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Markdown                1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Python                  1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
