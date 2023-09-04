@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Antlr4教程](https://slw.im/2023/09/antlr4-tutorial/)
 - [Go 小册](https://slw.im/2022/01/go-book/)
 - [设计模式（1）——单例模式](https://slw.im/2021/09/design-pattern-singleton/)
 - [开源镜像站点汇总](https://slw.im/2021/08/open-source-mirror-sites/)
-- [在macOS上使用GPG对GitHub进行签名](https://slw.im/2020/09/submit-to-github-with-gpg-on-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
