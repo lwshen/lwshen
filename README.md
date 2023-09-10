@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2023年阅读书单](https://slw.im/2023/09/2023-reading-list/)
 - [ANTLR4 笔记](https://slw.im/2023/09/antlr4-notes/)
 - [Go 小册](https://slw.im/2022/01/go-book/)
 - [设计模式（1）——单例模式](https://slw.im/2021/09/design-pattern-singleton/)
-- [开源镜像站点汇总](https://slw.im/2021/08/open-source-mirror-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
