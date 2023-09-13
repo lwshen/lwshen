@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><img src="https://raw.githubusercontent.com/lwshen/lwshen/main/assets/github-contribution-grid-snake.svg" ></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+  <img alt="github-snake" src="assets/github-snake.svg" />
+</picture>
 
 ###  Hi 👋, I'm Ryo Shen
 <p align="left">
