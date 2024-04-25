@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              9 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   39.69 %
-TypeScript        8 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   33.35 %
-YAML              2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-JSON              56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Bash              51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+TypeScript        8 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   36.94 %
+Java              7 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.73 %
+YAML              2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Bash              51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Groovy            44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
