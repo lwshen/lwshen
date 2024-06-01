@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 56 mins   ████████████████▒░░░░░░░░   65.03 %
-YAML              1 hr 37 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-Java Properties   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Groovy            25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Gradle            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Java              6 hrs 35 mins   ███████████████▓░░░░░░░░░   62.08 %
+YAML              1 hr 47 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+Java Properties   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Properties        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Gradle            25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
