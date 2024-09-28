@@ -59,11 +59,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
-Smarty       1 hr 1 min      █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-Java         51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-Gradle       38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Groovy       37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Smarty   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
