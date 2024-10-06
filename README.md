@@ -59,11 +59,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   57 mins         ████████████████████████░   95.89 %
-Vue.js       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other    4 mins          ██████████████▒░░░░░░░░░░   57.35 %
+Smarty   3 mins          ██████████▓░░░░░░░░░░░░░░   42.65 %
 ```
 
 <!--END_SECTION:waka-->
