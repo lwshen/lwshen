@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other    4 mins          ██████████████▒░░░░░░░░░░   57.35 %
-Smarty   3 mins          ██████████▓░░░░░░░░░░░░░░   42.65 %
+Smarty   4 mins          █████████████░░░░░░░░░░░░   51.85 %
+Other    4 mins          ████████████░░░░░░░░░░░░░   48.15 %
 ```
 
 <!--END_SECTION:waka-->
