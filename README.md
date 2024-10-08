@@ -59,8 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Smarty   4 mins          █████████████░░░░░░░░░░░░   51.85 %
-Other    4 mins          ████████████░░░░░░░░░░░░░   48.15 %
+Docker       17 mins         ███████▒░░░░░░░░░░░░░░░░░   29.95 %
+Other        16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.56 %
+JavaScript   11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+PHP          5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Smarty       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
 ```
 
 <!--END_SECTION:waka-->
