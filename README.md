@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js            5 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.84 %
-Java              4 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   23.87 %
-TypeScript        4 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-YAML              1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-JSON              50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Vue.js            5 hrs 21 mins   ████████▓░░░░░░░░░░░░░░░░   34.67 %
+Java              4 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   31.20 %
+TypeScript        3 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+YAML              1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Docker            21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
