@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                 7 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.83 %
-Python               3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-Go                   3 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Bash                 2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Vue.js               2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Java                 7 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.11 %
+Go                   3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+Bash                 2 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Python               2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+YAML                 1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
