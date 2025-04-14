@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        2 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   36.68 %
-Java              1 hr 43 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-Vue.js            1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-YAML              35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-SQL               34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+YAML              2 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   32.42 %
+TypeScript        2 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+Java              1 hr 43 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
+Vue.js            1 hr 2 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+SQL               34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 ```
 
 <!--END_SECTION:waka-->
