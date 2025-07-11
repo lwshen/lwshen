@@ -59,11 +59,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       21 mins         █████████▒░░░░░░░░░░░░░░░   37.11 %
-CSV          16 mins         ███████░░░░░░░░░░░░░░░░░░   27.69 %
-Python       12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
-TypeScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-INI          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
