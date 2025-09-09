@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
-Python       1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-YAML         1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Go           1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-Bash         1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+YAML         2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+TypeScript   2 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Java         1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Go           1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Bash         1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
 ```
 
 <!--END_SECTION:waka-->
