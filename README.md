@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ```txt
 TypeScript         3 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   23.60 %
-Python             2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Python             2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
 Markdown           1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 YAML               1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 JSON               1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
