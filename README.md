@@ -59,11 +59,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         16 mins               ████████░░░░░░░░░░░░░░░░░   32.55 %
-Docker       12 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
-YAML         8 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-Java         7 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Bash         3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+YAML         7 mins                ██████████████▓░░░░░░░░░░   58.76 %
+Other        2 mins                ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+Smarty       2 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
