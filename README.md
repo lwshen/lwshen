@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       10 hrs 6 mins         █████████▒░░░░░░░░░░░░░░░   36.78 %
-Markdown         5 hrs 49 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-Other            3 hrs 17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-Swift            1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Smarty           1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+TypeScript       6 hrs 48 mins         ████████░░░░░░░░░░░░░░░░░   32.15 %
+Markdown         5 hrs 36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
+Other            3 hrs 11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Swift            1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Text             48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
