@@ -31,13 +31,6 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate wakatime card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:

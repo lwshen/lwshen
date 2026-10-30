@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 -------
 
 ### Statistics
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lwshen&show_icons=true&locale=en" alt="lwshen" /></p>
+<p>&nbsp;<img align="center" src="assets/stats.svg" alt="lwshen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lwshen&" alt="lwshen" /></p>
 
