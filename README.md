@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        23 hrs 38 mins        ████████▒░░░░░░░░░░░░░░░░   33.97 %
-Markdown     21 hrs 47 mins        ███████▓░░░░░░░░░░░░░░░░░   31.32 %
-Text         7 hrs 51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-Python       4 hrs 1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-JSON         2 hrs 54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Other        22 hrs 14 mins        ████████▒░░░░░░░░░░░░░░░░   33.57 %
+Markdown     20 hrs 22 mins        ███████▓░░░░░░░░░░░░░░░░░   30.77 %
+Text         7 hrs 35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Python       4 hrs 38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+YAML         3 hrs 13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
